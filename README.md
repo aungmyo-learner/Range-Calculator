@@ -24,7 +24,7 @@
 
 ## Archiecture & Design
 
-This project follows a **Layered archiecutre** to separate concerns:
+This project follows a **Layered Archiecutre** to separate concerns:
 
 ```
 Presentation (UI)
